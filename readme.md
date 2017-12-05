@@ -1,7 +1,7 @@
 ## travis-ansible для тетов ролей
 
 [![Build status](https://api.travis-ci.org/dtulyakov/travis-ansible2.svg)](https://travis-ci.org/dtulyakov/travis-ansible2)
-[![CircleCI](https://circleci.com/gh/dtulyakov/travis-ansible2/tree/master.svg?style=shield)][circleci]
+[![CircleCI](https://circleci.com/gh/dtulyakov/travis-ansible2/tree/master.svg?style=shield)[circleci]
 
 Targets Debian and RHEL based systems
 
