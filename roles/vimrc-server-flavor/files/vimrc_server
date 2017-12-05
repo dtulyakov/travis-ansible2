@@ -1,16 +1,3 @@
-" https://github.com/prodicus/dotfiles. Fork of"
-"==========================================
-" ProjectLink: https://github.com/wklken/vim-for-server
-" Author:  wklken
-" Version: 0.2
-" Email: wklken@yeah.net
-" BlogPost: http://www.wklken.me
-" Donation: http://www.wklken.me/pages/donation.html
-" ReadMe: README.md
-" Last_modify: 2015-07-07
-" Desc: simple vim config for server, without any plugins.
-"==========================================
-
 " leader
 let mapleader = ','
 let g:mapleader = ','
@@ -61,6 +48,7 @@ set showcmd                     " display incomplete commands
 set showmode                    " display current modes
 set showmatch                   " jump to matches when entering parentheses
 set matchtime=2                 " tenths of a second to show the matching parenthesis
+set cursorline
 
 
 " search
@@ -100,7 +88,7 @@ endfun
 
 " encoding
 set encoding=utf-8
-set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1
+set fileencodings=utf-8
 set termencoding=utf-8
 set ffs=unix,dos,mac
 set formatoptions+=m
