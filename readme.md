@@ -1,4 +1,4 @@
-## ansible-bootstrap-server
+## travis-ansible для тетов ролей
 
 [![Build status](https://api.travis-ci.org/dtulyakov/travis-ansible2.svg)](https://travis-ci.org/dtulyakov/travis-ansible2)
 
